@@ -3,16 +3,17 @@
 
 ## How to use
 
-### Example 1
+### Import
 #### Header
 ```html
 <link href='https://darkninja1.github.io/domstrap/animations/a1.css' rel='stylesheet' type='text/css' >
 ```
-### Example 2
+### Example 1
 ##### HTML
 ```html
 <element class='popIn'>stuff</element>
 ```
+### Example 2
 ##### JS
 ```javascript
 [yourElement].classList.add("popIn");
