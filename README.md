@@ -3,5 +3,5 @@
 
 ## How to use
 ```html
-<link href='https://MidnightblueUnfitElectricity.dahonzak.repl.co/' rel='stylesheet' type='text/css' >
+<link href='https://darkninja1.github.io/domstrap/main.css' rel='stylesheet' type='text/css' >
 ```
