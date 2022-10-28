@@ -3,6 +3,9 @@
 .fadeIn { animation: fadeIn 2s; }
 .popIn { animation: popIn 1s; }
 .slideIn { animation: slideIn 1s; }
+.fadeOut { animation: fadeOut 2s; }
+.popOut { animation: popOut 1s; }
+.slideOut { animation: slideOut 1s; }
 
 /* Entrance Animations */
 
