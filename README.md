@@ -23,4 +23,22 @@ or
 [yourElement].style.animation = "popIn 2s linear"; // customizable
 ```
 
----
+## Classes
+
+### Entrances
+
+.popIn
+.fadeIn
+.slideIn
+.flipInX
+.flipInY
+.flipInZ
+
+### Exits
+
+.popOut
+.fadeOut
+.slideOut
+
+### More
+Updates will be coming later
