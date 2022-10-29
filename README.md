@@ -23,6 +23,8 @@ or
 [yourElement].style.animation = "popIn 2s linear"; // customizable
 ```
 
+---
+
 ## Classes
 
 ### Entrances
