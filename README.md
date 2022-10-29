@@ -36,9 +36,9 @@ or
 
 ### Exits
 
-.popOut
-.fadeOut
-.slideOut
+.popOut <br>
+.fadeOut <br>
+.slideOut <br>
 
 ### More
 Updates will be coming later
