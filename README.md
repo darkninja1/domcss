@@ -27,12 +27,12 @@ or
 
 ### Entrances
 
-.popIn
-.fadeIn
-.slideIn
-.flipInX
-.flipInY
-.flipInZ
+.popIn <br>
+.fadeIn <br>
+.slideIn <br>
+.flipInX <br>
+.flipInY <br>
+.flipInZ <br>
 
 ### Exits
 
