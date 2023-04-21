@@ -44,11 +44,24 @@ or
 
 ### More
 
+#### Padding
+
 .p-10 ~ 0-80 <br>
-.m-10 ~ 0-80 <br>
 .px-10 ~ 0-80 <br>
 .py-10 ~ 0-80 <br>
+.pt-10 ~ 0-80 <br>
+.pl-10 ~ 0-80 <br>
+.pr-10 ~ 0-80 <br>
+.pb-10 ~ 0-80 <br>
+
+#### Margin
+
+.m-10 ~ 0-80 <br>
 .mx-10 ~ 0-80 <br>
 .my-10 ~ 0-80 <br>
+.mt-10 ~ 0-80 <br>
+.ml-10 ~ 0-80 <br>
+.mr-10 ~ 0-80 <br>
+.mb-10 ~ 0-80 <br>
 
 Updates will be coming later
