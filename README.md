@@ -43,4 +43,12 @@ or
 .slideOut <br>
 
 ### More
+
+.p-10 ~ 0-80 <br>
+.m-10 ~ 0-80 <br>
+.px-10 ~ 0-80 <br>
+.py-10 ~ 0-80 <br>
+.mx-10 ~ 0-80 <br>
+.my-10 ~ 0-80 <br>
+
 Updates will be coming later
