@@ -1,4 +1,4 @@
-# domstrap
+# domcss
 > The ultimate style sheet
 
 ## How to use
