@@ -6,7 +6,7 @@
 ### Import
 #### Header
 ```html
-<link href='https://darkninja1.github.io/domstrap/main.css' rel='stylesheet' type='text/css' >
+<link href='https://darkninja1.github.io/domcss/main.css' rel='stylesheet' type='text/css' >
 ```
 ### Example 1
 ##### HTML
